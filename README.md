@@ -1,5 +1,9 @@
 The following is from Gemini based on source generated from Claude, so I have no idea if it's correct. I am not in any way versed in fluid dynamics enough to understand if this is correct, true, or even moderately sensible. I am going to make one, which should make it self evident if it works or not by checking the filter for dinge.
 
+<p align="center">
+<img src="img/image.png">
+<img src="img/cutout.png">
+</p>
 --------
 
 # Series-Stacked HEPA Purifier (Dual 140mm)
