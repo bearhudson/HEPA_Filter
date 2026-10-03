@@ -1,0 +1,11 @@
+Plotted to '/Users/brian/gits/HEPA_Filter/ki-cad/board/board-F_Cu.gbr'.
+Plotted to '/Users/brian/gits/HEPA_Filter/ki-cad/board/board-B_Cu.gbr'.
+Plotted to '/Users/brian/gits/HEPA_Filter/ki-cad/board/board-F_Paste.gbr'.
+Plotted to '/Users/brian/gits/HEPA_Filter/ki-cad/board/board-B_Paste.gbr'.
+Plotted to '/Users/brian/gits/HEPA_Filter/ki-cad/board/board-F_Silkscreen.gbr'.
+Plotted to '/Users/brian/gits/HEPA_Filter/ki-cad/board/board-B_Silkscreen.gbr'.
+Plotted to '/Users/brian/gits/HEPA_Filter/ki-cad/board/board-F_Mask.gbr'.
+Plotted to '/Users/brian/gits/HEPA_Filter/ki-cad/board/board-B_Mask.gbr'.
+Plotted to '/Users/brian/gits/HEPA_Filter/ki-cad/board/board-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/brian/gits/HEPA_Filter/ki-cad/board/board-job.gbrjob'.
+Info: Done.
