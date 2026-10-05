@@ -729,7 +729,7 @@
         "uuid": "89bb567a-2967-4255-8b9a-8bc908162698"
       }
     ],
-    "used_designators": "JDHT1,JLED1,J1-6,JBUCK1,JPOW1,JFAN1-2,JMQ1,R1-2,#PWR1-20,U1,C1-3,F1,#FLG1-3",
+    "used_designators": "JDHT1,JLED1,JPOW1,J1-6,JBUCK1,JFAN1-2,JMQ1,R1-2,#PWR1-20,U1,C1-3,F1,#FLG1-3",
     "variants": []
   },
   "sheets": [
